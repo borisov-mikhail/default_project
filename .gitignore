@@ -1,2 +1,5 @@
+# VertualEnv
 venv/
+
+# IDE configs
 .idea/
